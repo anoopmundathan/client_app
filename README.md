@@ -1,5 +1,5 @@
 # client_app
-Client App that consumes [REST API](https://github.com/anoopmundathan/qa-rest-api.git)
+Treehouse Course - Client App that consumes [REST API](https://github.com/anoopmundathan/qa-rest-api.git)
 
 ## Getting Started
 ### Setup
